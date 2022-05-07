@@ -6,14 +6,14 @@ const FormInput = (props) => {
   // console.log("FormInput: ", props);
   const { label, onChange, ...otherProps } = props;
   // console.log(otherProps);
-  const { handleOnchange } = useForm();
+  // const { handleOnchange } = useForm();
   return (
     <>
       <div className="input_field_container">
         <label>{label}</label>
         <input
           {...otherProps}
-          onChange={handleOnchange}
+          onChange={onChange}
           className="input_field"
         />
         <span>error</span>
