@@ -1,0 +1,13 @@
+.tbody-height{
+    overflow: scroll;
+    background-color: rgba(200, 180, 255, 0.068);
+}
+.action-btn{
+    margin: 0.155rem;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 280px;
+}

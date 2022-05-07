@@ -1,0 +1,11 @@
+/* .col1{
+    background-color: blue;
+    height: 300px;
+    width: 100%;
+} */
+.col2{
+    background-color: rgb(167, 167, 187);
+    height: 300px;
+    width: 100%;
+    padding: 10px;
+}
