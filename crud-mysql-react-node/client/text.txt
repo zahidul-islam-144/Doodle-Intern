@@ -1,0 +1,9 @@
+//
+<input type="checkbox" id="option1">
+<label for="option1">Option 1</label>
+or
+<label for="option1">
+    Option 1
+    <input type="checkbox" id="option1">
+</label>
+//

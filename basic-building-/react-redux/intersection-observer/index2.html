@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <style>
+         div {
+            background-color: yellow;
+            height: 1500px;
+            width: 1500px;
+         }
+      </style>
+   </head>
+
+   <body>
+      <script>
+         function scrollFunc() {
+            window.scrollBy(200, 200);
+            alert("Vertical: " + window.scrollY);
+         }
+      </script>
+      <button onclick="scrollFunc()" style="position:fixed;">Scroll</button>
+      <br><br><br>
+     <div>
+     </div>
+   </body>
+</html>

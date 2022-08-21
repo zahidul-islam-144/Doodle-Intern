@@ -69,23 +69,26 @@ const RegisterForm = () => {
             type="radio"
             name="gender"
             value="male"
+            for="gender1"
             onChange={handleOnchange}
           />
-          <label>Male</label>
+          <label id="gender">Male</label>
           <input
             type="radio"
             name="gender"
             value="female"
+            for="gender2"
             onChange={handleOnchange}
           />
-          <label>Female</label>
+          <label id="gender">Female</label>
           <input
             type="radio"
             name="gender"
             value="other"
+            for="gender3"
             onChange={handleOnchange}
           />
-          <label>Other</label>
+          <label id="gender">Other</label>
         </div>
         <span>error</span>
         <br />
