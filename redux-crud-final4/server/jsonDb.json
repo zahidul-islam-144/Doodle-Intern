@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "fname": "Zahidul",
+            "lname": "Islam",
+            "department": "CSE",
+            "passing_year": "2020"
+        },
+        {
+            "id": 2,
+            "fname": "Shahriar",
+            "lname": "Nabil",
+            "department": "CSE",
+            "passing_year": "2020"
+        },
+        {
+            "id": 3,
+            "fname": "Neymar",
+            "lname": "Junior",
+            "department": "CSE",
+            "passing_year": "2020"
+        },
+        {
+            "id": 4,
+            "fname": "Alex",
+            "lname": "Sandro",
+            "department": "CSE",
+            "passing_year": "2020"
+        }
+    ]
+}

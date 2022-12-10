@@ -1,0 +1,11 @@
+input {
+  padding: 5px 3px 5px 10px;
+}
+.form-btn {
+  display: flex;
+  margin-top: 10px;
+}
+.fname {
+  margin-top: 3px;
+  border: 1px solid red;
+}
